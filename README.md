@@ -4,8 +4,8 @@ This Power BI project presents a People Insights dashboard designed to analyze w
 ​
 
 # Project Overview
-- The dashboard is built from an employee dataset containing fields such as Employee ID, Birthday, Gender ID, BU ID, Grade ID, Type ID, Salary, Start Date, End Date, Age, and Tenure.  
-​- It provides a clear HR analytics view to support workforce planning, employee monitoring, and data-driven decision-making.
+- The dashboard is built from an employee dataset containing fields such as Employee ID, Birthday, Gender ID, BU ID, Grade ID, Type ID, Salary, Start Date, End Date, Age, and Tenure.
+- It provides a clear HR analytics view to support workforce planning, employee monitoring, and data-driven decision-making.
 ​
 
 # Dashboard Features
